@@ -1,5 +1,8 @@
 # Penjadwalan Mata Kuliah Otomatis — Algoritma Genetika
 
+**Nama:** Roja Hubbil Khairi
+**Nim:** 24146036
+
 **Mata Kuliah:** Kecerdasan Buatan (SIF210) — UAS Genap 2025/2026  
 **Dosen:** Teuku Rizky Noviandy, S.Kom., M.Kom.
 
